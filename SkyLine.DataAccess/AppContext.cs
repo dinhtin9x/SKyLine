@@ -49,7 +49,7 @@ namespace SkyLine.DataAccess
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            string connstr = @"Server=tcp:ndtinit.database.windows.net,1433;Initial Catalog=SkyLine;Persist Security Info=False;User ID=SkyLineUser01;Password=SkyLine123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
+            string connstr = @"";
             optionsBuilder.UseSqlServer(connstr);
         }
     }
