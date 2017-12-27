@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D0A05B5C-0520-4AE4-8BF7-DA35017C56A6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SkyLine.Constant/MessageList.cs">
+    <Files>
+      <File FileName="SkyLine.BusinessLogic/MessageDetailBL.cs" Line="42" Column="55" />
+      <File FileName="SkyLine.Constant/MessageList.cs" Line="12" Column="54" />
+      <File FileName="SkyLine.Models/MessageResponeModel.cs" Line="8" Column="36" />
+      <File FileName="SkyLine/Controllers/MessageController.cs" Line="52" Column="1" />
+      <File FileName="SkyLine.DataAccess/MessageDetailDA.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine/Controllers/MessageController.cs" relfile="SkyLine/Controllers/MessageController.cs" line="21" column="1" />
+      <Breakpoint file="/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.DataAccess/MessageGroupDA.cs" relfile="SkyLine.DataAccess/MessageGroupDA.cs" line="19" column="43" />
+      <Breakpoint file="/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine/Controllers/MessageController.cs" relfile="SkyLine/Controllers/MessageController.cs" line="36" column="1" />
+      <Breakpoint file="/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.BusinessLogic/MessageDetailBL.cs" relfile="SkyLine.BusinessLogic/MessageDetailBL.cs" line="42" column="1" />
+      <Breakpoint file="/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.BusinessLogic/MessageDetailBL.cs" relfile="SkyLine.BusinessLogic/MessageDetailBL.cs" line="46" column="1" />
+      <Breakpoint file="/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.BusinessLogic/MessageDetailBL.cs" relfile="SkyLine.BusinessLogic/MessageDetailBL.cs" line="35" column="1" />
+      <Breakpoint file="/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.Constant/MessageList.cs" relfile="SkyLine.Constant/MessageList.cs" line="17" column="1" />
+      <Breakpoint file="/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.BusinessLogic/MessageDetailBL.cs" relfile="SkyLine.BusinessLogic/MessageDetailBL.cs" line="28" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SkyLine PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

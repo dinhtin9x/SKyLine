@@ -1,0 +1,11 @@
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.Constant/bin/Debug/netcoreapp2.0/SkyLine.Constant.deps.json
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.Constant/bin/Debug/netcoreapp2.0/SkyLine.Constant.runtimeconfig.json
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.Constant/bin/Debug/netcoreapp2.0/SkyLine.Constant.runtimeconfig.dev.json
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.Constant/bin/Debug/netcoreapp2.0/SkyLine.Constant.dll
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.Constant/bin/Debug/netcoreapp2.0/SkyLine.Constant.pdb
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.Constant/obj/Debug/netcoreapp2.0/SkyLine.Constant.csprojResolveAssemblyReference.cache
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.Constant/obj/Debug/netcoreapp2.0/SkyLine.Constant.csproj.CoreCompileInputs.cache
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.Constant/obj/Debug/netcoreapp2.0/SkyLine.Constant.AssemblyInfoInputs.cache
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.Constant/obj/Debug/netcoreapp2.0/SkyLine.Constant.AssemblyInfo.cs
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.Constant/obj/Debug/netcoreapp2.0/SkyLine.Constant.dll
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.Constant/obj/Debug/netcoreapp2.0/SkyLine.Constant.pdb

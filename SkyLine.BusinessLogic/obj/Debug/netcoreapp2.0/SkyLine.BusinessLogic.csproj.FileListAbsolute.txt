@@ -1,0 +1,17 @@
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.BusinessLogic/obj/Debug/netcoreapp2.0/SkyLine.BusinessLogic.csprojResolveAssemblyReference.cache
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.BusinessLogic/obj/Debug/netcoreapp2.0/SkyLine.BusinessLogic.csproj.CoreCompileInputs.cache
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.BusinessLogic/obj/Debug/netcoreapp2.0/SkyLine.BusinessLogic.AssemblyInfoInputs.cache
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.BusinessLogic/obj/Debug/netcoreapp2.0/SkyLine.BusinessLogic.AssemblyInfo.cs
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.BusinessLogic/bin/Debug/netcoreapp2.0/SkyLine.BusinessLogic.deps.json
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.BusinessLogic/bin/Debug/netcoreapp2.0/SkyLine.BusinessLogic.runtimeconfig.json
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.BusinessLogic/bin/Debug/netcoreapp2.0/SkyLine.BusinessLogic.runtimeconfig.dev.json
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.BusinessLogic/bin/Debug/netcoreapp2.0/SkyLine.BusinessLogic.dll
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.BusinessLogic/bin/Debug/netcoreapp2.0/SkyLine.BusinessLogic.pdb
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.BusinessLogic/bin/Debug/netcoreapp2.0/SkyLine.Constant.dll
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.BusinessLogic/bin/Debug/netcoreapp2.0/SkyLine.DataAccess.dll
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.BusinessLogic/bin/Debug/netcoreapp2.0/SkyLine.Models.dll
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.BusinessLogic/bin/Debug/netcoreapp2.0/SkyLine.DataAccess.pdb
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.BusinessLogic/bin/Debug/netcoreapp2.0/SkyLine.Models.pdb
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.BusinessLogic/bin/Debug/netcoreapp2.0/SkyLine.Constant.pdb
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.BusinessLogic/obj/Debug/netcoreapp2.0/SkyLine.BusinessLogic.dll
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.BusinessLogic/obj/Debug/netcoreapp2.0/SkyLine.BusinessLogic.pdb

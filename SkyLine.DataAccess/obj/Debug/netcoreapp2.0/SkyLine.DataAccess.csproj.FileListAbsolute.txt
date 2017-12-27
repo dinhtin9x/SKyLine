@@ -1,0 +1,15 @@
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.DataAccess/bin/Debug/netcoreapp2.0/SkyLine.DataAccess.deps.json
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.DataAccess/bin/Debug/netcoreapp2.0/SkyLine.DataAccess.runtimeconfig.json
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.DataAccess/bin/Debug/netcoreapp2.0/SkyLine.DataAccess.runtimeconfig.dev.json
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.DataAccess/bin/Debug/netcoreapp2.0/SkyLine.DataAccess.dll
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.DataAccess/bin/Debug/netcoreapp2.0/SkyLine.DataAccess.pdb
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.DataAccess/bin/Debug/netcoreapp2.0/SkyLine.Models.dll
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.DataAccess/bin/Debug/netcoreapp2.0/SkyLine.Models.pdb
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.DataAccess/obj/Debug/netcoreapp2.0/SkyLine.DataAccess.csprojResolveAssemblyReference.cache
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.DataAccess/obj/Debug/netcoreapp2.0/SkyLine.DataAccess.csproj.CoreCompileInputs.cache
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.DataAccess/obj/Debug/netcoreapp2.0/SkyLine.DataAccess.AssemblyInfoInputs.cache
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.DataAccess/obj/Debug/netcoreapp2.0/SkyLine.DataAccess.AssemblyInfo.cs
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.DataAccess/obj/Debug/netcoreapp2.0/SkyLine.DataAccess.dll
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.DataAccess/obj/Debug/netcoreapp2.0/SkyLine.DataAccess.pdb
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.DataAccess/bin/Debug/netcoreapp2.0/SkyLine.Constant.dll
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.DataAccess/bin/Debug/netcoreapp2.0/SkyLine.Constant.pdb

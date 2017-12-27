@@ -1,0 +1,13 @@
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.Models/bin/Debug/netcoreapp2.0/SkyLine.Models.deps.json
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.Models/bin/Debug/netcoreapp2.0/SkyLine.Models.runtimeconfig.json
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.Models/bin/Debug/netcoreapp2.0/SkyLine.Models.runtimeconfig.dev.json
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.Models/bin/Debug/netcoreapp2.0/SkyLine.Models.dll
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.Models/bin/Debug/netcoreapp2.0/SkyLine.Models.pdb
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.Models/obj/Debug/netcoreapp2.0/SkyLine.Models.csproj.CoreCompileInputs.cache
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.Models/obj/Debug/netcoreapp2.0/SkyLine.Models.AssemblyInfoInputs.cache
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.Models/obj/Debug/netcoreapp2.0/SkyLine.Models.AssemblyInfo.cs
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.Models/obj/Debug/netcoreapp2.0/SkyLine.Models.dll
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.Models/obj/Debug/netcoreapp2.0/SkyLine.Models.pdb
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.Models/obj/Debug/netcoreapp2.0/SkyLine.Models.csprojResolveAssemblyReference.cache
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.Models/bin/Debug/netcoreapp2.0/SkyLine.Constant.dll
+/Users/nguyendinhtin/Documents/Work/Sky line/Source/SkyLine/SkyLine.Models/bin/Debug/netcoreapp2.0/SkyLine.Constant.pdb
